@@ -5,7 +5,7 @@ Come to our bi-weekly algorithms meeting!
 
 This repository contains resources related to our bi-weekly algorithms.
 
-# [Link to this week's problems](https://github.com/hunterwics/WeeklyAlgorithms/blob/master/challenges/gcd/gcd.md)
+# [Link to this week's problems](https://github.com/hunterwics/WeeklyAlgorithms/blob/master/challenges/palindrome/palindrome.md)
 
 
 Below are additional learning resources.
